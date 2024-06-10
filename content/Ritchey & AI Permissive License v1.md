@@ -1,4 +1,4 @@
-# Ritchey & AI Open Source License v2
+# Ritchey & AI Permissive License v1
 
 ## License Structure
 The text of this license is divided into sections. In some cases sections are further divided, so that the legal text can be stated separately from a clarification of its intent.
@@ -23,9 +23,9 @@ You are free to copy, modify, and distribute this work, in source, final product
 
 ## Conditions
 ### Intent
-The purpose of this section is to protect access to this work.
+The purpose of this section is to ensure all copies of the work come with a license, and make it clear that any portions of the work, used in new works, are still under this license.
 ### Legal Text
-If you distribute this work in a modified form, you must also provide the original source material, or a mechanism to obtain it, such as a link to the original source material repository. You must include a copy of this license text in any distributed, or modified works. Use of the original creators' or copyright holders' names, logos, or trademarks for the purpose of endorsing or promoting products derived from this work is not granted by this license.
+If you distribute this work, whether in original or in a modified form, whether in part or in whole, you must include a copy of this license text. Use of the original creators' or copyright holders' names, logos, or trademarks for the purpose of endorsing or promoting products derived from this work is not granted by this license.
 
 ## Non-Discrimination
 ### Intent
@@ -43,7 +43,7 @@ This license is technology-neutral. It does not require that the work be run on 
 ### Intent
 The purpose of this section is to help enable the work to be integrated with works under different licenses.
 ### Legal Text
-This license does not require that other works distributed on the same medium be open source.
+This license does not require that other works distributed on the same medium be under the same license.
 
 ## Disclaimer
 ### Intent

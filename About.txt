@@ -1,14 +1,14 @@
-Name: Ritchey&AI Open Source License
-Version: 2
-Long Identifier: Ritchey&AI Open Source License v2
-Short Identifier: R&AIOSLv2
-Description: An opensource license.
+Name: Ritchey&AI Permissive License
+Version: 1
+Long Identifier: Ritchey&AI Permissive License v1
+Short Identifier: R&AIPLv1
+Description: A permissive license.
 History:
- - Project started June 9, 2024.
- - Version 1 completed June 9, 2024.
- - Version 2 completed June 10, 2024.
+ - Project started June 10, 2024.
+ - Version 1 completed June 10, 2024.
 Author: James Daniel Marrs Ritchey
 Licensing: This project is licensed under the Ritchey Permissive License v16.
 Notes:
  - This project was developed in part by using the tool GitHub Copilot Business.
+ - This project was forked from Ritchey&AI Open Source License v2.
  - IANAL (I am not a lawyer).
