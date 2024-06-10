@@ -1,11 +1,12 @@
 Name: Ritchey&AI Open Source License
-Version: 1
-Long Identifier: Ritchey&AI Open Source License v1
-Short Identifier: R&AIOSLv1
+Version: 2
+Long Identifier: Ritchey&AI Open Source License v2
+Short Identifier: R&AIOSLv2
 Description: An opensource license.
 History:
  - Project started June 9, 2024.
  - Version 1 completed June 9, 2024.
+ - Version 2 completed June 10, 2024.
 Author: James Daniel Marrs Ritchey
 Licensing: This project is licensed under the Ritchey Permissive License v16.
 Notes:
