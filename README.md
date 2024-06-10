@@ -1,0 +1,1 @@
+# ritcheyandai_open_source_license
